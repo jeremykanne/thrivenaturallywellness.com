@@ -1,2 +1,4 @@
 .DS_Store
 .netlify/
+.venv/
+__pycache__/

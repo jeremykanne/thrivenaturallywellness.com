@@ -1,0 +1,4790 @@
+[
+ {
+  "slug": "",
+  "title": "Home - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h1>Let’s make healthcare work for you</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Many health problems are rooted across multiple factors and the causes might not be so obvious. I take an approach that offers a wider view with more time together, so that we can take a deeper look into what your body needs to achieve balance.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Start with a consult",
+          "href": "/work-with-me/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Headshot-1-e1573926353882.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Headshot-1-e1573926353882.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h1>Let’s make healthcare work for you</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Many health problems are rooted across multiple factors and the causes might not be so obvious. I take an approach that offers a wider view with more time together, so that we can take a deeper look into what your body needs to achieve balance.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Start with a consult",
+          "href": "/work-with-me/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>What is Naturopathic Medicine?</h2>\n<p>Naturopathic Medicine is an approach that takes a holistic view of what are the root causes of symptoms. In this type of medicine, symptoms are information our body is giving us to understand the root cause of a problem. The body naturally can (and wants to!) heal itself.  We provide the support your body needs to get back to a natural, healthy state.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Why does Naturopathic Medicine work?</h2>\n<p>There are three principles to why naturopathic medicine works: listening, removing obstacles, and restoring balance. First, we listen to our patients to understand what obstacles are preventing their body having a healthy balance. From there, we work to remove the obstacles together with natural solutions.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "divider",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_like_alt~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>What I Can Help With</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Chronic-Pain-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Chronic Pain",
+          "html": "<p>Does pain keep you from doing things that you want? Is the pain getting worse and you don’t know what to do about it?</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Auto-immunity-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Auto-Immunity",
+          "html": "<p>Do you have autoimmune flares that you can’t figure out? Do the flares come more often and are hard to get rid of?</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Headaches-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Headaches",
+          "html": "<p>Are headaches keeping you from doing your best because you cannot think? Is brain fog affecting your ability to work?</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Digestive-Pain-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Digestive Issues",
+          "html": "<p>Do you have to worry about traveling or going places because you’re not sure what your gut will do? Have you tried ‘everything’ and your gut still an issue?</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Fatigue-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Fatigue",
+          "html": "<p>Are you tired of being tired?! Does being tired limit what you can do?  Does it take you days to recover from a ‘normal’ activity?</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Sensitivities-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Sensitivities",
+          "html": "<p>Are you becoming more and more sensitive to foods, noises, scents or stress? Get nauseous or headaches for no reason? Are you unsure why you are sensitive?</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Nutrition-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Nutrition Support",
+          "html": "<p>Are you confused about what foods to eat or what supplements to take? Confused because health influencers contradict each other? </p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Drug-Alt-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Drug Alternatives",
+          "html": "<p>Are you taking drugs that don’t seem to be working correctly?</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 4,
+    "color": "rgba(212,244,244,0.67)",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/10/doctor-11.jpg",
+          "alt": "",
+          "href": null,
+          "hide": [
+           "phone",
+           "tablet"
+          ]
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Steth-dark-blue-copy.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2>Your detective in health </h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Often times patients have multiple health issues but are unsure what the underlying problem is. Or they have tried multiple treatments but haven’t found an adequate solution.</p>\n<p>This is what I specialize in – being your detective in health. I find the root cause by analyzing a myriad of factors and then facilitate making a change together.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 5,
+    "color": "rgba(212,244,244,0.67)",
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/10/doctor-11.jpg",
+          "alt": "",
+          "href": null,
+          "hide": [
+           "phone",
+           "tablet"
+          ]
+         },
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Steth-dark-blue-copy.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2>Your detective in health </h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Often times patients have multiple health issues but are unsure what the underlying problem is. Or they have tried multiple treatments but haven’t found an adequate solution.</p>\n<p>This is what I specialize in – being your detective in health. I find the root cause by analyzing a myriad of factors and then facilitate making a change together.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "divider",
+          "hide": [
+           "desktop"
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 6,
+    "color": "rgba(212,244,244,0.67)",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>How We Work Together</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Each person’s treatment is made specifically to them, but it all follows this general structure.</p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/smiling-doctor-consulting-patient-PWJY36U-e1574026095866.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Consult",
+          "html": "<p>Everything I do starts with listening and continues through a comprehensive approach that touches many aspects of body, mind, and spirituality.</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/therapist-giving-cupping-treatment-to-young-asian-WZE9NFA-e1574026592964.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Treatment",
+          "html": "<p>Depending on what you need, I will recommend treatments that could include:</p>\n<p>Acupuncture, Massage, Hydrotherapy, Botanical &amp; Nutritional Supplements, and others</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/young-cheerful-patient-giving-medical-paper-to-WN82GFD-e1574029067770.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "On-Going Support",
+          "html": "<p>This is what my patients love the most – I’ll be there for you for as long as you need.</p>\n<p>Regular check-ins together help us understand what is working and what is not. <br/>  </p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "button",
+          "text": "Start with a consult",
+          "href": "/work-with-me/",
+          "align": "center",
+          "hide": []
+         },
+         {
+          "type": "divider",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "2/5",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/08/TNW-icon-color.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2><strong>What are the benefits of working with you?</strong></h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "3/5",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<ul>\n<li>You will receive a plethora of tools and treatment suggestions</li>\n<li>You can <strong>take advantage of my expertise in natural medicine</strong>, herbs and collagen disorders</li>\n<li>You will get <strong>critical thinking to assess your situation</strong> and come up with new solutions</li>\n<li>You will get a balanced second opinion</li>\n<li>You will receive lots of <strong>support to help you achieve your health goals</strong></li>\n<li><strong>You will feel heard</strong></li>\n<li>You will feel nourished by therapies that work with your body, not against it</li>\n<li>You will <strong>feel confident in your healing</strong> as your therapies are natural and have few adverse effects</li>\n</ul>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "2/5",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2021/09/TNW-icon-dark.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2><strong>What do I miss if we don’t work together?</strong></h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "3/5",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<ul>\n<li><strong>You will get ‘stay in your lane’ care</strong></li>\n<li>Your care won’t incorporate all body systems and may miss important clues</li>\n<li>You will be referred out to specialists who may not see the whole picture</li>\n<li>You will spend lots of time explaining the same thing over and over to different doctors</li>\n<li><strong>You will receive symptom-based care, not holistic care</strong></li>\n<li>You may <strong>spend more time and money over time</strong>, as the treatments don’t address the root cause</li>\n</ul>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 8,
+    "bg": "/wp-content/uploads/2019/10/doctors-01.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Let's Get Started</strong></h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up to start with a simple consult<br/></strong><strong>Or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 10,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let's get started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up below or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 11,
+    "bg": "/wp-content/uploads/2019/10/quotes.png",
+    "color": "rgba(0,155,216,0.07)",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>I sought Nadene’s help with neck and back pain. <strong>I felt improvement after my first acupuncture experience and it just improved from there.</strong> I’ve experienced so many positive benefits from my treatments; better sleep, less pain, and I’ve even seen improved A1c (diabetic indicator) numbers.</p>\n<p><strong>Nadene is skilled, intuitive, and kind.</strong> She genuinely wants to use her skills to help you in any way possible. I can’t say thank you enough!</p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "Holly Schmidt",
+          "href": null,
+          "html": "Patient",
+          "img": null,
+          "icon": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 13,
+    "color": "#43c6c4",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "(779) 797-0084",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_phone~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "nadene@thrivenaturallywellness.com",
+          "href": "mailto:nadene@thrivenaturallywellness.com",
+          "html": "",
+          "img": null,
+          "icon": "~|icon_mail~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "1917 E Gate Pkwy, Rockford, IL 61108",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_pin~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "start-here",
+  "title": "Start here - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": true,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h1>Your partner in health</h1>\n<p>Solve complex health issues with naturopathic principles</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Start with a consult",
+          "href": "/start-here/#work-with-me",
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Stethoscope-green.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2>I work to solve complex health issues</h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Often my patients have been to several doctors and still have not found a good treatment for their health issues. With me, you get a partner that’s present, listening, and helping to discover a solution that works for you.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Learn about Nadene",
+          "href": "/about/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Headshot-1-e1573926353882.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "Why Naturopathy",
+          "href": null,
+          "html": "<p>I’ve been drawn to helping people my whole life. Naturopathic medicine has become a passion because it’s like helping someone who’s in the middle of a puzzle be able to see the bigger picture. I love seeing something ‘click’ for someone as everything starts working together.</p>",
+          "img": null,
+          "icon": "R~|icon_check_alt2~|elegant-themes~|outline",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "Why Naturopathy Works",
+          "href": null,
+          "html": "<p>Naturopathy is effective because it works with the body not against the body – we all have natural ways to heal ourselves within us. Using natural solutions ends up being easier for our bodies, and more effective, since we’re going in the same direction as the body wants to.</p>",
+          "img": null,
+          "icon": "R~|icon_check_alt2~|elegant-themes~|outline",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 4,
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Primary Services</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "3/5",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2021/09/CTA-Image-01.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "2/5",
+        "modules": [
+         {
+          "type": "cta",
+          "title": "Naturopathic Consulting",
+          "html": "<p>Tired of being dismissed, misdiagnosed, or told “everything looks fine”? Here, you’ll receive a personalized, naturopathic care plan that works <em>with</em> your body—not against it.</p>\n<p>It all starts with a consultation where we take a holistic look at your health together.</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "3/5",
+        "modules": [
+         {
+          "type": "cta",
+          "title": "Specialist in Ehlers-Danlos Syndrome",
+          "html": "<p>If you’ve been chasing a diagnosis—or trying to live without one—we understand the toll EDS can take. We offer comprehensive assessments, personalized protocols, and natural interventions to help manage symptoms like joint instability, chronic pain, fatigue, digestive trouble, and more.</p>\n<p>We see the patterns other providers miss—and we treat them with empathy and expertise.</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "2/5",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2021/09/doctor-01.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2020/02/doctor-explaining-diagnosis-to-her-female-patient-P6U3TRG-scaled-e1582321828464.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Whole Health Plan",
+          "html": "<p>We take an in-depth look at your health history and put together a plan that breaks down what you need to do to return to health.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/therapist-giving-cupping-treatment-to-young-asian-WZE9NFA-e1574026592964.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Acupuncture",
+          "html": "<p>This is a system of balancing energy flow in the body to achieve relaxation, relieve stress, and decrease pain.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/sports-massage-therapist-massaging-sportsmans-P3TY63N-e1574804362457.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Massage / Body Work",
+          "html": "<p>I use multiple techniques and work gently and effectively to address your specific pain needs so you can feel relaxed.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2020/02/Screen-Shot-2020-01-28-at-10.34.00-AM-e1582321660328.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Online Natural Healthcare",
+          "html": "<p>Work with me from anywhere in the world to get access to comprehensive health consultation and support.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/vegan-nutrition-concept-MEPCU9Q-e1574804924162.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Nutrition Support",
+          "html": "<p>Nutrition is the foundation for the whole healing process and our custom-tailored plans help clients use nutrition to return to health.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/dietary-supplement-tablets-pouring-out-of-G3YJR6L-e1574805159597.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Natural Supplements",
+          "html": "<p>Used to support and heal body systems. My clients enjoy easy access to discounted quality supplements.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/08/ultrasound-therapy.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Ultrasound Therapy",
+          "html": "<p>A time-honored treatment that uses sound waves to reduce pain and inflammation.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/botanical-environment-greenery-pottery-nature-PELVD7B-e1574807152143.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Herbal Supplements",
+          "html": "<p>Plants are the original healers and can be a great way to support your body without generating harmful side effects. </p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2020/02/Screen-Shot-2020-01-28-at-10.30.42-AM-e1582321634643.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Homeopathy",
+          "html": "<p>Safe and gentle approach that works well with many other health practices and often helps other treatments be even more effective.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 5,
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h4>Ask me about how one of these could work for you.</h4>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Start with a consult",
+          "href": "/start-here/#work-with-me",
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 6,
+    "bg": "/wp-content/uploads/2019/10/quotes.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>I sought Nadene’s help with neck and back pain. <strong>I felt improvement after my first acupuncture experience and it just improved from there.</strong> I’ve experienced so many positive benefits from my treatments; better sleep, less pain, and I’ve even seen improved A1c (diabetic indicator) numbers.</p>\n<p><strong>Nadene is skilled, intuitive, and kind.</strong> She genuinely wants to use her skills to help you in any way possible. I can’t say thank you enough!</p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "Holly Schmidt",
+          "href": null,
+          "html": "<p>Client</p>",
+          "img": null,
+          "icon": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 8,
+    "bg": "/wp-content/uploads/2019/10/doctors-01.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Let's Get Started</strong></h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up to start with a simple consult<br/></strong><strong>Or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 10,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let's get started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up below or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 12,
+    "color": "#43c6c4",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "(779) 797-0084",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_phone~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "nadene@thrivenaturallywellness.com",
+          "href": "mailto:nadene@thrivenaturallywellness.com",
+          "html": "",
+          "img": null,
+          "icon": "~|icon_mail~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "1917 E Gate Pkwy, Rockford, IL 61108",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_pin~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "about",
+  "title": "About Nadene - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h1>Dr. Nadene Johnson</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>As a Naturopathic Doctor with advanced clinical training, a Master of Science in Acupuncture, and a background in massage therapy, I bring a multi-dimensional, holistic approach to healing. My specialties include collagen disorders, Ehlers-Danlos Syndrome, and chronic, complex conditions that often leave patients searching for answers. I integrate herbal medicine, homeopathy, supplements, detoxification and drainage, nutritional guidance, and lifestyle adjustments—always rooted in the body’s innate ability to heal itself.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "book a consult",
+          "href": "/work-with-me/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Headshot-1-e1573926353882.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/10/doctor-11.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "2/3",
+        "modules": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|user-md~|font-awesome~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2>My mission is to get people feeling 100%</h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>I am dedicated to restoring the vital force of the body. To get there, we take a deeper approach that gets into the foundational principles of how the body works and how it heals itself.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The work I do with my clients covers many different aspects of the their lives and bodies and that’s important to be able to get them feeling, not just to 80%, but to 100%. </p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>Now, I walk alongside my clients on their own Journeys of Discovery—helping them find their steps on the path to vibrant health. I tune into the Universe, drawing in the insights my clients need, offering guidance like a magician revealing hidden treasures. My gifts of listening, critical thinking, and deep intuition offer an oasis in a sea awash with opinions. Here, we take the time to look deeper, uncover the root cause, and support the body’s natural wisdom to heal.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2>You can have a vibrant and healthy life. We can get you there.</h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Book An Appointment Today",
+          "href": "/work-with-me/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/doctor-01.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 4,
+    "color": "#29c4a9",
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|plus-circle~|font-awesome~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2>You can have a vibrant and healthy life. We can get you there.</h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Book An Appointment Today",
+          "href": "/work-with-me/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 6,
+    "bg": "/wp-content/uploads/2019/10/quotes.png",
+    "color": "rgba(0,155,216,0.07)",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "slider",
+          "slides": [
+           {
+            "title": "",
+            "html": "<p>Nadene has been a wonderful blessing, <strong>she has helped me get my Fibromyalgia under control and has taught me so much about acupuncture</strong> and how it can help with a variety of conditions that effect the body. <strong>I highly recommend Thrive Naturally Wellness.</strong></p>\n<p>- A.H.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>With my cholesterol, blood pressure, thyroid and a couple other issues she was spot on with everything and I had improvement using the recommended supplements.</p>\n<p><strong>For years my thyroid number was </strong><strong>dwindling and not one doctor ever mentioned it. With her recommendation my thyroid number started to improve, even after my doctor told me it was not possible.</strong></p>\n<p>Thank you so much for all your knowledge, support, understanding and being such an amazing person to help us through our healthcare journey.</p>\n<p>- B.M. and L.M.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>I have been working with Nadene since March and <strong>the changes I have experienced are dramatic</strong>. She truly listens and is always available to answer any questions. She makes you feel comfortable and wants to get to the core of the problem instead of just pushing supplements.</p>\n<p><strong>She is not my first Naturopathic doctor but she will be my last! All of her treatments are amazing!</strong></p>\n<p>- A.B.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>My main goal in seeing Nadene at Thrive Naturally Wellness was to <strong>stay as healthy as possible and to stay off any medications</strong> as I got older. Nadene recommends supplements that my body needs to handle<br/> life stresses and aging to keep me healthy. <strong>With Nadene’s help I rarely get sick and I am not on any medications.</strong></p>\n<p>- L.V.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>I was able to eat chicken <strong>after years of fearing it for a reaction</strong> the other day. I felt my body start “reacting,” and I calmed my body and reminded it that food is not the enemy. <strong>I have avoided chicken for almost 3 years</strong> and I ate about a quarter of chicken breast.</p>\n<p><strong>Thank you to Dr. Nadene Johnson</strong> for turning me on to brain retraining and nervous system work. You’re a true gem!</p>\n<p>- Sara</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>I sought Nadene’s help with neck and back pain. <strong>I felt improvement after my first acupuncture experience and it just improved from there.</strong> I’ve experienced so many positive benefits from my treatments; better sleep, less pain, and I’ve even seen improved A1c (diabetic indicator) numbers.</p>\n<p><strong>Nadene is skilled, intuitive, and kind.</strong> She genuinely wants to use her skills to help you in any way possible. I can’t say thank you enough!</p>\n<p>- H.S.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>Nadene helped me when I was going through a time of anxiety/depression and fatigue. W<strong>hile doctors were so quick to throw antidepressants at me, Nadene listened and evaluated what I really needed.</strong> She didn’t just stick a band-aid on the issue. She dove in to see what the route problems were. She is a blessing!</p>\n<p>- K.M.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>Dr. Johnson is dedicated has each individual’s well being as her top priority. <strong>She listens, looks at all the variables and involves her patients in making wise choices.</strong></p>\n<p>- R.B.</p>",
+            "button": null
+           }
+          ],
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 8,
+    "bg": "/wp-content/uploads/2019/10/doctors-01.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Let's Get Started</strong></h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up to start with a simple consult<br/></strong><strong>Or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 10,
+    "color": "#43c6c4",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "(779) 797-0084",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_phone~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "nadene@thrivenaturallywellness.com",
+          "href": "mailto:nadene@thrivenaturallywellness.com",
+          "html": "",
+          "img": null,
+          "icon": "~|icon_mail~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "1917 E Gate Pkwy, Rockford, IL 61108",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_pin~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "services",
+  "title": "Services - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Stethoscope-blue.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h1>Healthcare that’s made for you</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Let’s develop a custom plan together so you can return to health.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Start with a consult",
+          "href": "/work-with-me/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/doctor-17.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Comprehensive Health</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>I strive to provide a whole view of your body and health. The below services are parts to a health plan that can be used individually or together. My best value is helping you figure out what needs to be done and why.</p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Primary Services</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "3/5",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2021/09/CTA-Image-01.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "2/5",
+        "modules": [
+         {
+          "type": "cta",
+          "title": "Naturopathic Consulting",
+          "html": "<p>Tired of being dismissed, misdiagnosed, or told “everything looks fine”? Here, you’ll receive a personalized, naturopathic care plan that works <em>with</em> your body—not against it.</p>\n<p>It all starts with a consultation where we take a holistic look at your health together.</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "3/5",
+        "modules": [
+         {
+          "type": "cta",
+          "title": "Specialist in Ehlers-Danlos Syndrome",
+          "html": "<p>If you’ve been chasing a diagnosis—or trying to live without one—we understand the toll EDS can take. We offer comprehensive assessments, personalized protocols, and natural interventions to help manage symptoms like joint instability, chronic pain, fatigue, digestive trouble, and more.</p>\n<p>We see the patterns other providers miss—and we treat them with empathy and expertise.</p>",
+          "button": null,
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "2/5",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2021/09/doctor-01.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2020/02/doctor-explaining-diagnosis-to-her-female-patient-P6U3TRG-scaled-e1582321828464.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Whole Health Plan",
+          "html": "<p>We take an in-depth look at your health history and put together a plan that breaks down what you need to do to return to health.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/therapist-giving-cupping-treatment-to-young-asian-WZE9NFA-e1574026592964.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Acupuncture",
+          "html": "<p>This is a system of balancing energy flow in the body to achieve relaxation, relieve stress, and decrease pain.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/sports-massage-therapist-massaging-sportsmans-P3TY63N-e1574804362457.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Massage / Body Work",
+          "html": "<p>I use multiple techniques and work gently and effectively to address your specific pain needs so you can feel relaxed.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2020/02/Screen-Shot-2020-01-28-at-10.34.00-AM-e1582321660328.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Online Natural Healthcare",
+          "html": "<p>Work with me from anywhere in the world to get access to comprehensive health consultation and support.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/vegan-nutrition-concept-MEPCU9Q-e1574804924162.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Nutrition Support",
+          "html": "<p>Nutrition is the foundation for the whole healing process and our custom-tailored plans help clients use nutrition to return to health.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/dietary-supplement-tablets-pouring-out-of-G3YJR6L-e1574805159597.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Natural Supplements",
+          "html": "<p>Used to support and heal body systems. My clients enjoy easy access to discounted quality supplements.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/08/ultrasound-therapy.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Ultrasound Therapy",
+          "html": "<p>A time-honored treatment that uses sound waves to reduce pain and inflammation.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/botanical-environment-greenery-pottery-nature-PELVD7B-e1574807152143.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Herbal Supplements",
+          "html": "<p>Plants are the original healers and can be a great way to support your body without generating harmful side effects. </p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2020/02/Screen-Shot-2020-01-28-at-10.30.42-AM-e1582321634643.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Homeopathy",
+          "html": "<p>Safe and gentle approach that works well with many other health practices and often helps other treatments be even more effective.</p>",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 5,
+    "bg": "/wp-content/uploads/2019/10/quotes.png",
+    "color": "rgba(0,155,216,0.07)",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "slider",
+          "slides": [
+           {
+            "title": "",
+            "html": "<p>Nadene has been a wonderful blessing, <strong>she has helped me get my Fibromyalgia under control and has taught me so much about acupuncture</strong> and how it can help with a variety of conditions that effect the body. <strong>I highly recommend Thrive Naturally Wellness.</strong></p>\n<p>- A.H.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>With my cholesterol, blood pressure, thyroid and a couple other issues she was spot on with everything and I had improvement using the recommended supplements.</p>\n<p><strong>For years my thyroid number was </strong><strong>dwindling and not one doctor ever mentioned it. With her recommendation my thyroid number started to improve, even after my doctor told me it was not possible.</strong></p>\n<p>Thank you so much for all your knowledge, support, understanding and being such an amazing person to help us through our healthcare journey.</p>\n<p>- B.M. and L.M.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>I have been working with Nadene since March and <strong>the changes I have experienced are dramatic</strong>. She truly listens and is always available to answer any questions. She makes you feel comfortable and wants to get to the core of the problem instead of just pushing supplements.</p>\n<p><strong>She is not my first Naturopathic doctor but she will be my last! All of her treatments are amazing!</strong></p>\n<p>- A.B.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>My main goal in seeing Nadene at Thrive Naturally Wellness was to <strong>stay as healthy as possible and to stay off any medications</strong> as I got older. Nadene recommends supplements that my body needs to handle<br/> life stresses and aging to keep me healthy. <strong>With Nadene’s help I rarely get sick and I am not on any medications.</strong></p>\n<p>- L.V.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>I was able to eat chicken <strong>after years of fearing it for a reaction</strong> the other day. I felt my body start “reacting,” and I calmed my body and reminded it that food is not the enemy. <strong>I have avoided chicken for almost 3 years</strong> and I ate about a quarter of chicken breast.</p>\n<p><strong>Thank you to Dr. Nadene Johnson</strong> for turning me on to brain retraining and nervous system work. You’re a true gem!</p>\n<p>- Sara</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>I sought Nadene’s help with neck and back pain. <strong>I felt improvement after my first acupuncture experience and it just improved from there.</strong> I’ve experienced so many positive benefits from my treatments; better sleep, less pain, and I’ve even seen improved A1c (diabetic indicator) numbers.</p>\n<p><strong>Nadene is skilled, intuitive, and kind.</strong> She genuinely wants to use her skills to help you in any way possible. I can’t say thank you enough!</p>\n<p>- H.S.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>Nadene helped me when I was going through a time of anxiety/depression and fatigue. W<strong>hile doctors were so quick to throw antidepressants at me, Nadene listened and evaluated what I really needed.</strong> She didn’t just stick a band-aid on the issue. She dove in to see what the route problems were. She is a blessing!</p>\n<p>- K.M.</p>",
+            "button": null
+           },
+           {
+            "title": "",
+            "html": "<p>Dr. Johnson is dedicated has each individual’s well being as her top priority. <strong>She listens, looks at all the variables and involves her patients in making wise choices.</strong></p>\n<p>- R.B.</p>",
+            "button": null
+           }
+          ],
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 7,
+    "bg": "/wp-content/uploads/2019/10/doctors-01.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Let's Get Started</strong></h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up to start with a simple consult<br/></strong><strong>Or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 9,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let's get started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up below or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 11,
+    "color": "#43c6c4",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "(779) 797-0084",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_phone~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "nadene@thrivenaturallywellness.com",
+          "href": "mailto:nadene@thrivenaturallywellness.com",
+          "html": "",
+          "img": null,
+          "icon": "~|icon_mail~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "1917 E Gate Pkwy, Rockford, IL 61108",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_pin~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "faq",
+  "title": "FAQ - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2020/03/Medical-case.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h1>Frequently Asked Questions</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>I’m here to help. If you have a question not listed here, or would like additional information, don’t hesitate to call or email me.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Contact me",
+          "href": "/work-with-me/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "2/3",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h3>General Questions</h3>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "accordion",
+          "items": [
+           {
+            "title": "How does it work?",
+            "html": "<p>We set up a phone consult to see if we are a good fit and if naturopathic medicine will help you. An intake is scheduled, where we go over your health history in detail. </p>\n<p>I will look at labs at that time and decide if we need additional labs. Labs are cash pay or you can ask your PCP to order them for you.  A custom treatment plan is created  to guide you in moving forward and making health decisions that will restore your vitality.  </p>\n<p>We meet to go over the plan and make decisions together that feel comfortable for you. Improving your health naturally sometimes involves detours and setbacks, and these are crucial points of information that help us realign your daily decisions so you can meet your health goals. Two follow up appointments are included and scheduled in, to help you meet your goals. </p>\n<p>After the package is finished, you have the choice how to move forward. The most successful people that I have worked with are the ones who are committed to their health, able to make changes, consistently show up and understand that healing takes time. Ongoing regular appointments support your healing journey.</p>"
+           },
+           {
+            "title": "What to expect?",
+            "html": "<p>Initial appointment is 1.5-2hrs, depending on how complicated things are. Follow up appointments are 60 minutes. </p>"
+           },
+           {
+            "title": "Do you treat ______?",
+            "html": "<p>Probably, yes. My training as a naturopathic doctor is as a primary care doctor. So I generally treat most issues. This is great, because the body is all connected, none of the systems are exclusive to one another. You cannot treat the thyroid or the brain without treating the gut. However, in my practice so far, I have encountered many patients with a condition called Ehler’s Danlos or Collagen Disorder syndrome. </p>\n<p>So I have expertise in that area. This actually affects every single system in the body, because the collagen makes up all fascia, protein, holds the skeleton and organs together and is involved everywhere in the body’s systems. </p>"
+           },
+           {
+            "title": "What is Ehlers-Danlos Syndrome (EDS)?",
+            "html": "<p>Ehlers-Danlos syndrome (EDS) are a group of inherited genetic conditions, which often go undiagnosed for years. Hypermobile EDS is a multi-genetic disease which I believe involves epigenetic changes that are due to stress, trauma and/or environmental toxins. </p>\n<p>The nervous system is often dysregulated, which can cause many different symptoms, and may seem to be unrelated. Natural medicine is uniquely poised to deal with this, as we focus on ALL the systems. I especially love connecting the dots and watch the ‘aha’ moments happen when people realize that there are reasons why they are feeling and experiencing what seems inexplicable. </p>"
+           },
+           {
+            "title": "What is Naturopathic Medicine?",
+            "html": "<p>Naturopathic medicine is a practice that uses holistic practices and natural supplements rather than pharmaceuticals to help solve health challenges. In that manner, I am most like a primary care doctor – working with you one-on-one to support your health.</p>"
+           },
+           {
+            "title": "What is Acupuncture?",
+            "html": "<p>Acupuncture is a way of addressing health issues based on ancient Chinese practices. It works to return a body to health by achieving balance.</p>"
+           },
+           {
+            "title": "Does Acupuncture hurt?",
+            "html": "<p>The needles used in acupuncture are smaller in diameter than a human hair. Sometimes you might feel a slight pinch, but very rarely is it painful at all.</p>"
+           },
+           {
+            "title": "Do you take insurance?",
+            "html": "<p>Insurance is not accepted at this time for any services. As an out-of-network provider for acupuncture only, I will provide a superbill that you may submit to your insurance company. Payment is up front at the time of service.</p>"
+           },
+           {
+            "title": "Are you licensed?",
+            "html": "<p>The term naturopath is unregulated and may be used by anyone promoting natural therapies with or without clinical education.</p>\n<p>A Naturopathic Doctor is an individual who has successfully graduated from one of the 7 accredited medical programs in North America and is eligible to sit for Naturopathic medical boards (NPLEX).</p>\n<p>A Naturopathic Physician is a Naturopathic Doctor who holds a license to practice medicine in one of the 21 licensed states.</p>"
+           },
+           {
+            "title": "What are your credentials?",
+            "html": "<p>Nadene holds a Doctorate of Naturopathic Medicine from the National University of Health Sciences in Lombard, IL. She has passed the national board exams (NPLEX) which allows her to obtain a license from a state where naturopathic doctors are licensed.</p>\n<p>She holds a Master of Science in Acupuncture and is a Licensed Acupuncturist in the state of Illinois. She also is a Licensed Massage Therapist in the state of Illinois.</p>"
+           }
+          ],
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "bg": "/wp-content/uploads/2019/10/doctors-01.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Let's Get Started</strong></h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up to start with a simple consult<br/></strong><strong>Or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 5,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let's get started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up below or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 7,
+    "color": "#43c6c4",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "(779) 797-0084",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_phone~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "nadene@thrivenaturallywellness.com",
+          "href": "mailto:nadene@thrivenaturallywellness.com",
+          "html": "",
+          "img": null,
+          "icon": "~|icon_mail~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "1917 E Gate Pkwy, Rockford, IL 61108",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_pin~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "blog",
+  "title": "Blog - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2021/09/TNW-icon.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h1>The Naturopath’s Journey</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Holistic insights, natural healing tips, and practical guidance for chronic conditions—explore how to feel better, stronger, and truly supported.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "posts",
+          "posts": [
+           {
+            "title": "Natural Allergy Relief: A Naturopathic Approach to Seasonal Wellness",
+            "href": "/natural-allergy-relief-a-naturopathic-approach-to-seasonal-wellness/",
+            "date": "Aug 7, 2025",
+            "img": null,
+            "excerpt": "Sniffles, Sneezes & Springtime? Let’s Talk Allergies Seasonal allergies—also known as hay fever or allergic rhinitis—can turn a beautiful spring day into a fog of sneezing, congestion, and itchy eyes. But what if you could reduce your symptoms naturally—without..."
+           },
+           {
+            "title": "Natural Approaches to Managing Anxiety and Stress: Two Steps and a Bonus",
+            "href": "/natural-approaches-to-managing-anxiety-and-stress-two-steps-and-a-bonus/",
+            "date": "Aug 7, 2025",
+            "img": null,
+            "excerpt": "More Than Just Feeling “Stressed Out” In today’s high-speed world, stress and anxiety are becoming the norm for many of us. Whether it’s a racing mind, tight chest, poor sleep, or constant worry—these are not just “mental” issues. They are whole-body signals that..."
+           },
+           {
+            "title": "The Role of Detoxification in Naturopathic Medicine: Myth or Must",
+            "href": "/the-role-of-detoxification-in-naturopathic-medicine-myth-or-must/",
+            "date": "Aug 7, 2025",
+            "img": null,
+            "excerpt": "In today’s wellness world, “detox” is everywhere. It’s on juice labels, in influencer posts, and on wellness retreat menus. But is it just another buzzword—or is there real science and strategy behind it? Many people wonder:Is detox a marketing gimmick, or a genuine..."
+           }
+          ],
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "color": "#43c6c4",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "(779) 797-0084",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_phone~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "nadene@thrivenaturallywellness.com",
+          "href": "mailto:nadene@thrivenaturallywellness.com",
+          "html": "",
+          "img": null,
+          "icon": "~|icon_mail~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "1917 E Gate Pkwy, Rockford, IL 61108",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_pin~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "resources",
+  "title": "Resources - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "3/5",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-landscape-color.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h1>Trusted Tools for Your Healing Journey</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Over the years, I’ve discovered a handful of products and resources that truly support the healing journey—whether you’re working with me in-person or from afar.</p>\n<p>These are tools I personally use and trust for:</p>\n<ul>\n<li>\n<p>Relaxation</p>\n</li>\n<li>\n<p>Better sleep</p>\n</li>\n<li>\n<p>Pain relief</p>\n</li>\n<li>\n<p>Skincare</p>\n</li>\n<li>\n<p>Overall wellness</p>\n</li>\n</ul>\n<p><em>Note: Some links are affiliate links. If you purchase through them, I may receive a small commission at no cost to you. This helps me continue sharing valuable healing resources. Thank you for your support!</em></p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "2/5",
+        "modules": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Foundational Wellness</strong></h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Fulvic Humic Acid</strong><br/> A foundational product I use with all my patients is <strong>fulvic humic acid</strong>.</p>\n<ul>\n<li>\n<p>Supports gentle detox</p>\n</li>\n<li>\n<p>Helps with gut health</p>\n</li>\n<li>\n<p>Backed by high-quality sourcing</p>\n</li>\n</ul>\n<p>I recommend <strong>Mother Earth Labs</strong> for their quality and effectiveness.</p>\n<p><a href=\"https://motherearthlabs.com/ref/thrivenaturallywellness/\"><strong>Order Fulvic Humic Acid from Mother Earth Labs &gt;&gt;</strong></a></p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "divider",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_like~|elegant-themes~|outline",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Supplements</strong></h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>High-Quality Supplements You Can Trust</strong><br/> What you put into your body matters. That’s why I only recommend supplements that are:</p>\n<ul>\n<li>Third-party tested</li>\n<li>High-quality and pure</li>\n<li>Backed by clinical results</li>\n</ul>\n<p>My go-to resource:</p>\n<p><strong><a href=\"http://www.dssorders.com/ThriveNaturallyWellness\">Doctors Supplement Store &gt;&gt;</a></strong></p>\n<p><strong></strong></p>\n<p><strong>Curious why I don’t recommend buying supplements on Amazon?</strong><strong><br/></strong><strong> <a href=\"/resources/DangesOfBuyingOnAmazon.pdf\" rel=\"noopener\">Read this article: Dangers of Buying on Amazon (PDF)</a></strong></p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "divider",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_like~|elegant-themes~|outline",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Clean Food &amp; Products</strong></h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>As part of the healing journey, it’s essential to find clean, high-quality foods and lifestyle products.</p>\n<p>I recommend <strong>Azure Standard and AzureWell</strong> for their amazing selection.</p>\n<ul>\n<li>\n<p>Organic and natural foods</p>\n</li>\n<li>\n<p>Eco-friendly products</p>\n</li>\n<li>\n<p>Healing lifestyle essentials</p>\n</li>\n</ul>\n<p>Enjoy a <strong>10% discount</strong> with my personal link:<br/><strong><a href=\"https://www.azurestandard.com/?a_aid=b3ff7a0a63&amp;utm_source=chatgpt.com\" rel=\"noopener\" target=\"_new\">Shop Azure Standard &gt;&gt;</a></strong></p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "divider",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_like~|elegant-themes~|outline",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 4,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>SHAPE Reclaimed</strong></h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>A Unique Health Restoration Program</strong><br/> SHAPE ReClaimed is a safe, effective health transformation program that helps restore balance in the body. It’s designed to:</p>\n<ul>\n<li>\n<p>Support healthy weight management</p>\n</li>\n<li>\n<p>Reduce inflammation</p>\n</li>\n<li>\n<p>Boost immune function</p>\n</li>\n<li>\n<p>Restore overall vitality</p>\n</li>\n</ul>\n<p><a href=\"/shape-reclaimed/\" target=\"_new\"><strong>Learn more about SHAPE ReClaimed &gt;&gt;</strong></a></p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "divider",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_like~|elegant-themes~|outline",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 6,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let's get started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up below or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 7,
+    "bg": "/wp-content/uploads/2019/10/doctors-01.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let’s Get Started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up to start with a 15-min call</strong></p>\n<p><strong>Or call — <strong>(779) 797-0084</strong></strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "form",
+          "name": "resources-contact",
+          "title": "",
+          "fields": [
+           {
+            "label": "Your Full Name",
+            "name": "name",
+            "type": "text",
+            "half": true,
+            "pattern": null,
+            "title": null
+           },
+           {
+            "label": "Phone Number",
+            "name": "phone",
+            "type": "text",
+            "half": true,
+            "pattern": "[0-9\\s-]*",
+            "title": "Only numbers allowed."
+           },
+           {
+            "label": "Email Address",
+            "name": "email",
+            "type": "email",
+            "half": false,
+            "pattern": null,
+            "title": null
+           }
+          ],
+          "button": "Let's chat!",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 8,
+    "color": "#2f8cff",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": "/",
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "shape-reclaimed",
+  "title": "Join the SHAPE Reclaimed program - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/09/Shape-Reclaimed-Logo-graphic.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h1>Join the SHAPE Reclaimed program</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Proper nutrition is necessary for everyone, but it’s difficult to find what works best for each individual. With the SHAPE Program, we will provide a step-by-step guide on what to eat.</p>\n<p>Then, with the use of urinalysis monitoring, the program will be adjusted to meet bio-individual needs.</p>\n<p>The SHAPE Drops maximize healing, helping you not only look great, but feel great, as well.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Learn more with a call",
+          "href": "/shape-reclaimed/#contactform",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Headshot-1-e1573926353882.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>SHAPE Program = SHAPE Drops + SHAPE Nutrition Protocol</strong></h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><em>Extraordinary results in a practitioner-monitored program!</em></p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h3>The SHAPE Program works because of our four-pronged approach:</h3>",
+          "align": "right",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<ul>\n<li>\n<p>Decrease Inflammation</p>\n</li>\n<li>\n<p>Detox &amp; Cleanse</p>\n</li>\n<li>\n<p>Strengthen Immune Function</p>\n</li>\n<li>\n<p>Release Excess Weight</p>\n</li>\n</ul>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/09/Shape-Reclaimed-Program-Guidebook.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2>How It Works</h2>\n<p>We monitor patients/clients closely through each of the three phases, customizing the program to help your patients/clients live long, healthy, successful lives:</p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "Phase I",
+          "href": null,
+          "html": "<p>Cleanse, detoxify, release excess weight, reduce inflammation, balance brain chemistry, improve immunity and help your patient/client redefine their relationship with food.</p>",
+          "img": null,
+          "icon": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "Phase II",
+          "href": null,
+          "html": "<p>Stabilize brain chemistry and metabolism, help your patient/client learn more about their relationship with food and discover food intolerances.</p>",
+          "img": null,
+          "icon": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "Phase III",
+          "href": null,
+          "html": "<p>Patient/client lives according to the knowledge they gained in the first two phases and establish healthy, long-term habits.</p>",
+          "img": null,
+          "icon": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/09/Shape-Reclaimed-Testimonials.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "color": "rgba(212,244,244,0.67)",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Benefits of the SHAPE Program</strong></h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<ul>\n<li>\n<p>Decrease inflammation</p>\n</li>\n<li>\n<p>Detox and cleanse</p>\n</li>\n<li>\n<p>Enhance immune function</p>\n</li>\n<li>\n<p>Safely release excess toxic weight</p>\n</li>\n<li>\n<p>Establish a healthy relationship with food</p>\n</li>\n<li>\n<p>Decrease pain</p>\n</li>\n<li>\n<p>Improve digestion</p>\n</li>\n<li>\n<p>Increase energy</p>\n</li>\n<li>\n<p>Improve sleep</p>\n</li>\n<li>\n<p>Balance mood</p>\n</li>\n<li>\n<p>Improve mental clarity  </p>\n</li>\n</ul>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<ul>\n<li>\n<p>Balance hormones</p>\n</li>\n<li>\n<p>Improve skin, hair, and nail health</p>\n</li>\n<li>\n<p>Improve blood sugar, blood pressure and cholesterol levels</p>\n</li>\n<li>\n<p>Decrease or eliminate medication dependency (with practitioner supervision)</p>\n</li>\n<li>\n<p>Learn life skills for long-term health</p>\n</li>\n<li>\n<p>Join a community of like-minded healthcare professionals</p>\n</li>\n<li>\n<p>Restore your health</p>\n</li>\n<li>\n<p>Revitalize your life</p>\n</li>\n</ul>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "button",
+          "text": "Learn more with a call",
+          "href": "/shape-reclaimed/#contactform",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>A practitioner-led program to assist you in reducing inflammation, lowering auto-immunity, gently detoxing and hormone balancing with a side effect of weight loss. The program was designed for post-menopausal women to help them balance hormones and lose weight.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/09/Shape-Reclaimed-What-If-Scale-graphic.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/09/Shape-Reclaimed-Drops-graphic.png",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 5,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let's get started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up below or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 6,
+    "bg": "/wp-content/uploads/2019/10/doctors-01.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let’s Get Started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up to start with a 15-min call</strong></p>\n<p><strong>Or call — <strong>(779) 797-0084</strong></strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "form",
+          "name": "shape-reclaimed-contact",
+          "title": "",
+          "fields": [
+           {
+            "label": "Your Full Name",
+            "name": "name",
+            "type": "text",
+            "half": true,
+            "pattern": null,
+            "title": null
+           },
+           {
+            "label": "Phone Number",
+            "name": "phone",
+            "type": "text",
+            "half": true,
+            "pattern": "[0-9\\s-]*",
+            "title": "Only numbers allowed."
+           },
+           {
+            "label": "Email Address",
+            "name": "email",
+            "type": "email",
+            "half": false,
+            "pattern": null,
+            "title": null
+           }
+          ],
+          "button": "Let's chat!",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 7,
+    "color": "#2f8cff",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": "/",
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "work-with-me",
+  "title": "Work with me - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|handshake-o~|font-awesome~|outline",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h1>Let’s work together</h1>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>We’ll start with a consult so I can better understand what I can help you with. Fill out your info below and I’ll give you a call. Or feel free to call me at the phone number listed below.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Appointments: Call (779) 797-0084</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "See our FAQ",
+          "href": "/faq/",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "bg": "/wp-content/uploads/2019/10/doctors-01.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [
+     "phone",
+     "tablet"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Let's Get Started</strong></h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up to start with a simple consult<br/></strong><strong>Or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 4,
+    "color": "#43c6c4",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "(779) 797-0084",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_phone~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "nadene@thrivenaturallywellness.com",
+          "href": "mailto:nadene@thrivenaturallywellness.com",
+          "html": "",
+          "img": null,
+          "icon": "~|icon_mail~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "1917 E Gate Pkwy, Rockford, IL 61108",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_pin~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "thank-you",
+  "title": "Thank you - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": true,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h1>Thank you</h1>\n<p>I look forward to hearing your needs and helping you heal</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 1,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Stethoscope-green.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<h2>Dr. Nadene Johnson</h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Often my patients have been to several doctors and still have not found a good treatment for their health issues. With me, you get a partner that’s present, listening, and helping to discover a solution that works for you.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "button",
+          "text": "Learn about Nadene",
+          "href": "/about",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Headshot-1-e1573926353882.jpg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 2,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "Why Naturopathy",
+          "href": null,
+          "html": "<p>I’ve been drawn to helping people my whole life. Naturopathic medicine has become a passion because it’s like helping someone who’s in the middle of a puzzle be able to see the bigger picture. I love seeing something ‘click’ for someone as everything starts working together.</p>",
+          "img": null,
+          "icon": "R~|icon_check_alt2~|elegant-themes~|outline",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "Why Naturopathy Works",
+          "href": null,
+          "html": "<p>Naturopathy is effective because it works with the body not against the body – we all have natural ways to heal ourselves within us. Using natural solutions ends up being easier for our bodies, and more effective, since we’re going in the same direction as the body wants to.</p>",
+          "img": null,
+          "icon": "R~|icon_check_alt2~|elegant-themes~|outline",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 3,
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Our Services</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>After a consult, I recommend modalities to help my clients return to health. </p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/therapist-giving-cupping-treatment-to-young-asian-WZE9NFA-e1574026592964.jpg",
+          "alt": "",
+          "href": "/services",
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Acupuncture",
+          "html": "",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/sports-massage-therapist-massaging-sportsmans-P3TY63N-e1574804362457.jpg",
+          "alt": "",
+          "href": "/services",
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Massage / Body Work",
+          "html": "",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/young-cosmetologist-holding-woman-head-before-DK78F4J-e1574804676843.jpg",
+          "alt": "",
+          "href": "/services",
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Cold Laser Therapy",
+          "html": "",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/vegan-nutrition-concept-MEPCU9Q-e1574804924162.jpg",
+          "alt": "",
+          "href": "/services",
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Nutrition Support",
+          "html": "",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/dietary-supplement-tablets-pouring-out-of-G3YJR6L-e1574805159597.jpg",
+          "alt": "",
+          "href": "/services",
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Natural Supplements",
+          "html": "",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/3",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/male-feet-in-outdoor-swimming-pool-P3VVQHZ-e1574805380675.jpg",
+          "alt": "",
+          "href": "/services",
+          "hide": []
+         },
+         {
+          "type": "cta",
+          "title": "Hydrotherapy",
+          "html": "",
+          "button": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 4,
+    "bg": "/wp-content/uploads/2019/10/quotes.png",
+    "color": "#f1f5f7",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>I sought Nadene’s help with neck and back pain. <strong>I felt improvement after my first acupuncture experience and it just improved from there.</strong> I’ve experienced so many positive benefits from my treatments; better sleep, less pain, and I’ve even seen improved A1c (diabetic indicator) numbers.</p>\n<p><strong>Nadene is skilled, intuitive, and kind.</strong> She genuinely wants to use her skills to help you in any way possible. I can’t say thank you enough!</p>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "Holly Schmidt",
+          "href": null,
+          "html": "<p>Client</p>",
+          "img": null,
+          "icon": null,
+          "align": "center",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 6,
+    "dark": false,
+    "hide": [
+     "desktop"
+    ],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Let's get started</h2>",
+          "align": "center",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p><strong>Sign up below or call — (779) 797-0084</strong></p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         },
+         {
+          "type": "calendly",
+          "url": "https://calendly.com/thrivenaturallywellness/30min?text_color=2c3a47&primary_color=2aa1da",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 8,
+    "color": "#43c6c4",
+    "bg": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDEyODAgODYiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIHNsaWNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiPjxwYXRoIGQ9Ik04MzMuOSAyNy41Yy01LjggMy4yLTExIDcuMy0xNS41IDEyLjItNy4xLTYuOS0xNy41LTguOC0yNi42LTUtMzAuNi0zOS4yLTg3LjMtNDYuMS0xMjYuNS0xNS41LTEuNCAxLjEtMi44IDIuMi00LjEgMy40QzY3NC40IDMzLjQgNjg0IDQ4IDY4OC44IDY0LjNjNC43LjYgOS4zIDEuOCAxMy42IDMuOCA3LjgtMjQuNyAzNC4yLTM4LjMgNTguOS0zMC41IDE0LjQgNC42IDI1LjYgMTUuNyAzMC4zIDMwIDE0LjIgMS4yIDI3LjcgNi45IDM4LjUgMTYuMkM4NDAuNiA0OS42IDg3NiAyOS41IDkxMC44IDM4Yy0yMC40LTIwLjMtNTEuOC0yNC42LTc2LjktMTAuNXpNMzg0IDQzLjljLTkgNS0xNi43IDExLjktMjIuNyAyMC4zIDE1LjQtNy44IDMzLjMtOC43IDQ5LjQtMi42IDMuNy0xMC4xIDkuOS0xOS4xIDE4LjEtMjYtMTUuNC0yLjMtMzEuMi42LTQ0LjggOC4zem01NjAuMiAxMy42YzIgMi4yIDMuOSA0LjUgNS43IDYuOSA1LjYtMi42IDExLjYtNCAxNy44LTQuMS03LjYtMi40LTE1LjYtMy4zLTIzLjUtMi44ek0xNzguNyA3YzI5LTQuMiA1Ny4zIDEwLjggNzAuMyAzNyA4LjktOC4zIDIwLjctMTIuOCAzMi45LTEyLjVDMjU2LjQgMS44IDIxNC43LTguMSAxNzguNyA3em0xNDYuNSA1Ni4zYzEuNSA0LjUgMi40IDkuMiAyLjUgMTQgLjQuMi44LjQgMS4yLjcgMy4zIDEuOSA2LjMgNC4yIDguOSA2LjkgNS44LTguNyAxMy43LTE1LjcgMjIuOS0yMC41LTExLjEtNS4yLTIzLjktNS42LTM1LjUtMS4xek0zMy41IDU0LjljMjEuNi0xNC40IDUwLjctOC41IDY1IDEzIC4xLjIuMi4zLjMuNSA3LjMtMS4yIDE0LjgtLjYgMjEuOCAxLjYuNi0xMC4zIDMuNS0yMC40IDguNi0yOS40LjMtLjYuNy0xLjIgMS4xLTEuOC0zMi4xLTE3LjItNzEuOS0xMC42LTk2LjggMTYuMXptMTIyOC45IDIuN2MyLjMgMi45IDQuNCA1LjkgNi4yIDkuMSAzLjgtLjUgNy42LS44IDExLjQtLjhWNDguM2MtNi40IDEuOC0xMi40IDUtMTcuNiA5LjN6TTExMjcuMyAxMWMxLjkuOSAzLjcgMS44IDUuNiAyLjggMTQuMiA3LjkgMjUuOCAxOS43IDMzLjUgMzQgMTMuOS0xMS40IDMxLjctMTYuOSA0OS42LTE1LjMtMjAuNS0yNy43LTU3LjgtMzYuOC04OC43LTIxLjV6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTAgMHY2NmM2LjggMCAxMy41LjkgMjAuMSAyLjYgMy41LTUuNCA4LjEtMTAuMSAxMy40LTEzLjYgMjQuOS0yNi44IDY0LjctMzMuNCA5Ni44LTE2IDEwLjUtMTcuNCAyOC4yLTI5LjEgNDguMy0zMiAzNi4xLTE1LjEgNzcuNy01LjIgMTAzLjIgMjQuNSAxOS43LjQgMzcuMSAxMy4xIDQzLjQgMzEuOCAxMS41LTQuNSAyNC40LTQuMiAzNS42IDEuMWwuNC0uMmMxNS40LTIxLjQgNDEuNS0zMi40IDY3LjYtMjguNiAyNS0yMSA2Mi4xLTE4LjggODQuNCA1LjEgNi43LTYuNiAxNi43LTguNCAyNS40LTQuOCAyOS4yLTM3LjQgODMuMy00NC4xIDEyMC43LTE0LjhsMS44IDEuNWMzNy4zLTMyLjkgOTQuMy0yOS4zIDEyNy4yIDggMS4yIDEuMyAyLjMgMi43IDMuNCA0LjEgOS4xLTMuOCAxOS41LTEuOSAyNi42IDUgMjQuMy0yNiA2NS0yNy4zIDkxLTMuMS41LjUgMSAuOSAxLjUgMS40IDEyLjggMy4xIDI0LjQgOS45IDMzLjQgMTkuNSA3LjktLjUgMTUuOS40IDIzLjUgMi44IDctLjEgMTMuOSAxLjUgMjAuMSA0LjcgMy45LTExLjYgMTUuNS0xOC45IDI3LjctMTcuNS4yLS4zLjMtLjYuNS0uOSAyMi4xLTM5LjIgNzAuNy01NC43IDExMS40LTM1LjYgMzAuOC0xNS4zIDY4LjItNi4yIDg4LjYgMjEuNSAxOC4zIDEuNyAzNSAxMC44IDQ2LjUgMjUuMSA1LjItNC4zIDExLjEtNy40IDE3LjYtOS4zVjBIMHoiLz48L2c+PC9zdmc+",
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "image",
+          "src": "/wp-content/uploads/2019/11/Thrive-Naturally-Wellness-logo-center-white.svg",
+          "alt": "",
+          "href": null,
+          "hide": []
+         },
+         {
+          "type": "text",
+          "html": "<p>Helping YOU Achieve Vibrant Health</p>",
+          "align": "center",
+          "dark": true,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "(779) 797-0084",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_phone~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         },
+         {
+          "type": "blurb",
+          "title": "nadene@thrivenaturallywellness.com",
+          "href": "mailto:nadene@thrivenaturallywellness.com",
+          "html": "",
+          "img": null,
+          "icon": "~|icon_mail~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       },
+       {
+        "frac": "1/2",
+        "modules": [
+         {
+          "type": "blurb",
+          "title": "1917 E Gate Pkwy, Rockford, IL 61108",
+          "href": null,
+          "html": "",
+          "img": null,
+          "icon": "~|icon_pin~|elegant-themes~|solid",
+          "align": "left",
+          "hide": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>The information on this website is purely for educational purposes. No statements, claims, services, products, resources mentioned or made available through Thrive Naturally Wellness are intended to diagnose, treat, or cure diseases of any kind. You should consult your physician before following any information gained from this website.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "natural-allergy-relief-a-naturopathic-approach-to-seasonal-wellness",
+  "title": "Natural Allergy Relief: A Naturopathic Approach to Seasonal Wellness - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "3/4",
+        "modules": []
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Recent Posts</h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "posts",
+          "posts": [
+           {
+            "title": "Natural Approaches to Managing Anxiety and Stress: Two Steps and a Bonus",
+            "href": "/natural-approaches-to-managing-anxiety-and-stress-two-steps-and-a-bonus/",
+            "date": "",
+            "img": null,
+            "excerpt": "More Than Just Feeling “Stressed Out” In today’s high-speed world, stress and anxiety are becoming the norm for many of us. Whether it’s a racing mind, tight chest, poor sleep, or constant worry—these are not just “mental” issues. They are whole-body signals that..."
+           },
+           {
+            "title": "The Role of Detoxification in Naturopathic Medicine: Myth or Must",
+            "href": "/the-role-of-detoxification-in-naturopathic-medicine-myth-or-must/",
+            "date": "",
+            "img": null,
+            "excerpt": "In today’s wellness world, “detox” is everywhere. It’s on juice labels, in influencer posts, and on wellness retreat menus. But is it just another buzzword—or is there real science and strategy behind it? Many people wonder:Is detox a marketing gimmick, or a genuine..."
+           }
+          ],
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>Sniffles, Sneezes &amp; Springtime? Let’s Talk Allergies</strong></h2>\n<p>Seasonal allergies—also known as hay fever or allergic rhinitis—can turn a beautiful spring day into a fog of sneezing, congestion, and itchy eyes. But what if you could reduce your symptoms naturally—without drowsiness, foggy antihistamines, or constant tissues?</p>\n<p>In naturopathic medicine, we treat allergies by supporting the immune system, calming inflammation, and strengthening the body’s natural defenses.</p>\n<h2><strong>Understanding Allergies, Naturally</strong></h2>\n<p>Seasonal allergies are triggered when your immune system overreacts to pollen, mold, or grasses—releasing histamine and causing inflammation.</p>\n<p>But why do some people react and others don’t?</p>\n<p>Common underlying causes:</p>\n<ul>\n<li>Gut imbalances (dysbiosis)</li>\n<li>Chronic inflammation</li>\n<li>High histamine levels</li>\n<li>Nutrient deficiencies (e.g., vitamin C, quercetin, zinc)</li>\n<li>Liver congestion or poor detox pathways<br/> </li>\n</ul>\n<h2><strong>Top Naturopathic Remedies for Allergy Relief</strong></h2>\n<h3>1.  Quercetin: Nature’s Antihistamine</h3>\n<p>A powerful flavonoid found in apples, onions, and kale, quercetin helps stabilize mast cells and reduce histamine release.</p>\n<ul>\n<li>Take 500–1000 mg/day for prevention.</li>\n<li>Works best when started 2–4 weeks before allergy season.</li>\n</ul>\n<p> Combine with vitamin C to boost effectiveness.</p>\n<p>—</p>\n<h3>2.  Nettles (Urtica dioica)</h3>\n<p>This gentle herbal remedy acts as a natural antihistamine and anti-inflammatory.</p>\n<ul>\n<li>Use in capsule or tea form</li>\n<li>Often combined with quercetin in allergy formulas</li>\n</ul>\n<p> Pro tip: Add a squeeze of lemon and raw honey to nettle tea for extra immune support.</p>\n<p>—</p>\n<h3>3. Saline Nasal Rinses</h3>\n<p>Rinsing the nasal passages with warm saline water helps:</p>\n<ul>\n<li>Clear pollen</li>\n<li>Reduce congestion</li>\n<li>Improve breathing</li>\n</ul>\n<p>Use a neti pot or nasal spray bottle 1–2x daily during peak allergy times.</p>\n<p>—</p>\n<h3>4.  Local Raw Honey </h3>\n<p>While not a guaranteed fix, some patients find relief using small amounts of local honey. The theory: repeated micro-exposure to local pollens may build tolerance.</p>\n<ul>\n<li>Try 1 tsp/day (avoid if allergic to bee products)</li>\n</ul>\n<p>—</p>\n<h3>5. Address the Gut-Immune Axis</h3>\n<p>Did you know 70% of your immune system is in your gut?</p>\n<p>Improving digestion and gut health often improves allergy severity. An ND may recommend:</p>\n<ul>\n<li>Probiotics</li>\n<li>Removing food sensitivities</li>\n<li>Healing leaky gut with L-glutamine, zinc carnosine, or licorice root</li>\n</ul>\n<p>—</p>\n<h3>6.  Liver &amp; Detox Support</h3>\n<p>Your liver helps process histamine and allergens.</p>\n<p>Support detox pathways with:</p>\n<ul>\n<li>Milk thistle</li>\n<li>Dandelion root tea</li>\n<li>Cruciferous veggies (broccoli, kale, Brussels sprouts)</li>\n</ul>\n<p>—</p>\n<h2><strong>Lifestyle Tips to Ease Allergy Season</strong></h2>\n<ul>\n<li>Keep windows closed on high-pollen days</li>\n<li>Shower and change clothes after being outdoors</li>\n<li>Use HEPA air filters in your bedroom</li>\n<li>Practice breathwork or nasal breathing (Buteyko method) to reduce inflammation</li>\n</ul>\n<p><strong>Best Time to Start?</strong></p>\n<p>Prevention is key. Start your natural allergy protocol:</p>\n<ul>\n<li>4–6 weeks before allergy season</li>\n<li>Or year-round if you have multiple triggers</li>\n</ul>\n<h2><strong>You Don’t Have to Suffer </strong></h2>\n<p>With naturopathic support, it’s possible to enjoy the seasons again—without chronic congestion or relying solely on over-the-counter meds.</p>\n<h2><strong>Ready to Breathe Easier, Naturally?</strong></h2>\n<p>Let’s create a personalized allergy relief plan just for you.</p>\n<p><strong><a href=\"/work-with-me/\"><em> Book a Free 15-Minute Discovery Call</em></a></strong></p>\n<p>Together, we’ll reduce your symptoms, calm your immune system, and help you thrive—every season of the year.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "natural-approaches-to-managing-anxiety-and-stress-two-steps-and-a-bonus",
+  "title": "Natural Approaches to Managing Anxiety and Stress: Two Steps and a Bonus - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "3/4",
+        "modules": []
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Recent Posts</h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "posts",
+          "posts": [
+           {
+            "title": "Natural Allergy Relief: A Naturopathic Approach to Seasonal Wellness",
+            "href": "/natural-allergy-relief-a-naturopathic-approach-to-seasonal-wellness/",
+            "date": "",
+            "img": null,
+            "excerpt": "Sniffles, Sneezes & Springtime? Let’s Talk Allergies Seasonal allergies—also known as hay fever or allergic rhinitis—can turn a beautiful spring day into a fog of sneezing, congestion, and itchy eyes. But what if you could reduce your symptoms naturally—without..."
+           },
+           {
+            "title": "The Role of Detoxification in Naturopathic Medicine: Myth or Must",
+            "href": "/the-role-of-detoxification-in-naturopathic-medicine-myth-or-must/",
+            "date": "",
+            "img": null,
+            "excerpt": "In today’s wellness world, “detox” is everywhere. It’s on juice labels, in influencer posts, and on wellness retreat menus. But is it just another buzzword—or is there real science and strategy behind it? Many people wonder:Is detox a marketing gimmick, or a genuine..."
+           }
+          ],
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2><strong>More Than Just Feeling “Stressed Out”</strong></h2>\n<p>In today’s high-speed world, stress and anxiety are becoming the norm for many of us. Whether it’s a racing mind, tight chest, poor sleep, or constant worry—these are not just “mental” issues. They are whole-body signals that something is out of balance.</p>\n<p>As a naturopathic doctor, I believe true healing starts when we <em>listen to the body</em>, identify the root cause, and use nature’s wisdom to restore calm.</p>\n<h2><strong>Step 1: Get to the Root</strong></h2>\n<p>Before choosing supplements or stress-reducing strategies, we must ask: <em>Why is your body reacting this way?</em></p>\n<p>Common contributors to anxiety include:</p>\n<ul>\n<li>Nutrient Deficiencies – Especially magnesium, B vitamins, and zinc</li>\n<li>Hormonal Imbalances – Thyroid issues or high cortisol</li>\n<li>Blood Sugar Swings – Skipping meals or high-sugar diets</li>\n<li>Inflammation – Often linked to gut issues</li>\n<li>Chronic Stress – Past trauma, work pressure, or emotional overload</li>\n</ul>\n<p> <em>Functional testing and a detailed health history help us uncover these patterns.</em></p>\n<h2><strong>Step 2: Natural Therapies That Work<br/> </strong></h2>\n<h3><strong><br/> </strong>1. Adaptogenic Herbs</h3>\n<p>Adaptogens help your body “adapt” to stress by calming the nervous system without sedating it.</p>\n<p>Top Picks:</p>\n<ul>\n<li><em>Ashwagandha</em> – Helps regulate cortisol</li>\n<li><em>Rhodiola</em> – Supports energy and mood</li>\n<li><em>Holy Basil</em> – Calms the mind and supports clarity</li>\n</ul>\n<h3><strong><br/></strong>2. Nutritional Support</h3>\n<p>What you eat directly affects how you feel.</p>\n<ul>\n<li>Magnesium (especially glycinate) promotes relaxation</li>\n<li>B-complex vitamins nourish the nervous system</li>\n<li>Omega-3 fatty acids reduce brain inflammation and stabilize mood</li>\n</ul>\n<p><em>Tip: Ditch caffeine and added sugar for at least two weeks and see how your body responds.</em></p>\n<h3><strong><br/>3. Mind-Body Techniques</strong></h3>\n<p>Proven, drug-free strategies to calm the mind:</p>\n<ul>\n<li>Breathwork: 4-7-8 breathing resets the nervous system<br/> </li>\n<li>Guided meditation: Even 5 minutes makes a difference</li>\n<li>Movement: Walking, gentle yoga, or tai chi lower cortisol</li>\n</ul>\n<p><em>Stress isn’t just in your mind—it’s stored in the body.</em></p>\n<h2><strong>Bonus: Heal the Gut to Calm the Mind</strong></h2>\n<p>Did you know 90% of your serotonin is produced in the gut? If your digestion is off, your mood often is too.</p>\n<ul>\n<li>Probiotics</li>\n<li>Anti-inflammatory foods (turmeric, ginger, leafy greens)</li>\n<li>Identifying food sensitivities</li>\n</ul>\n<h2><strong>Real Healing Takes Time</strong></h2>\n<p>The naturopathic approach doesn’t chase symptoms—it <em>restores resilience</em>. With time, consistency, and the right support, you can shift from reactive to resilient.</p>\n<p><strong>Ready to Find Your Calm?</strong></p>\n<p>If you’re tired of feeling anxious and overwhelmed, and you’re ready to take a whole-body approach to healing, I’d love to support you.</p>\n<p><strong><a href=\"/work-with-me/\"><em>Book a Free 15-Minute Discovery Call</em><br/> </a></strong> </p>\n<p>Let’s explore how naturopathic care can help you feel balanced, grounded, and well.</p>\n<p><em>Your body already knows how to heal. Let’s give it the support it needs.</em> </p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "the-role-of-detoxification-in-naturopathic-medicine-myth-or-must",
+  "title": "The Role of Detoxification in Naturopathic Medicine: Myth or Must - Thrive Naturally Wellness",
+  "description": "",
+  "og_image": null,
+  "sections": [
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "3/4",
+        "modules": []
+       },
+       {
+        "frac": "1/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<h2>Recent Posts</h2>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         },
+         {
+          "type": "posts",
+          "posts": [
+           {
+            "title": "Natural Allergy Relief: A Naturopathic Approach to Seasonal Wellness",
+            "href": "/natural-allergy-relief-a-naturopathic-approach-to-seasonal-wellness/",
+            "date": "",
+            "img": null,
+            "excerpt": "Sniffles, Sneezes & Springtime? Let’s Talk Allergies Seasonal allergies—also known as hay fever or allergic rhinitis—can turn a beautiful spring day into a fog of sneezing, congestion, and itchy eyes. But what if you could reduce your symptoms naturally—without..."
+           },
+           {
+            "title": "Natural Approaches to Managing Anxiety and Stress: Two Steps and a Bonus",
+            "href": "/natural-approaches-to-managing-anxiety-and-stress-two-steps-and-a-bonus/",
+            "date": "",
+            "img": null,
+            "excerpt": "More Than Just Feeling “Stressed Out” In today’s high-speed world, stress and anxiety are becoming the norm for many of us. Whether it’s a racing mind, tight chest, poor sleep, or constant worry—these are not just “mental” issues. They are whole-body signals that..."
+           }
+          ],
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "index": 0,
+    "dark": false,
+    "hide": [],
+    "rows": [
+     {
+      "cols": [
+       {
+        "frac": "4/4",
+        "modules": [
+         {
+          "type": "text",
+          "html": "<p>In today’s wellness world, <em>“detox”</em> is everywhere. It’s on juice labels, in influencer posts, and on wellness retreat menus. But is it just another buzzword—or is there real science and strategy behind it?</p>\n<p>Many people wonder:<br/>Is detox a marketing gimmick, or a genuine path to better health?<strong><br/></strong>Let’s clear the air.</p>\n<h2><strong>What Detoxification </strong><strong><em>Really</em></strong><strong> Means</strong></h2>\n<p>Before we dive into the naturopathic perspective, it’s important to understand this: your body is already detoxing—every single day.</p>\n<p>Your liver, kidneys, lymphatic system, gastrointestinal tract, and even your skin all work around the clock to eliminate waste and neutralize harmful substances. It’s an incredible, built-in system.</p>\n<p>But modern life can overload this natural process with:</p>\n<ul>\n<li>Environmental toxins (pesticides, pollution, plastics)</li>\n<li>Processed foods and additives</li>\n<li>Medications and alcohol</li>\n<li>Stress and poor sleep</li>\n</ul>\n<p><em>When your detox pathways are burdened, your body might start to </em><em>“speak up” with symptoms</em><em> like fatigue, brain fog, or skin issues.</em></p>\n<h2><strong>The Naturopathic Approach to Detox</strong></h2>\n<p>In naturopathic medicine, we honor the body’s innate ability to heal and detoxify—we don’t override it, we support it.</p>\n<p>Unlike trendy 3-day cleanses or extreme fasts, a naturopathic detox is personalized, gentle, and rooted in science. It may include:</p>\n<ul>\n<li>Liver-loving herbs like milk thistle, dandelion, or burdock root</li>\n<li>Targeted nutrition to support Phase I &amp; II liver detox pathways</li>\n<li>Sauna therapy or infrared treatments to promote sweating</li>\n<li>Gentle elimination diets to identify food sensitivities</li>\n<li>Hydrotherapy, movement, and breathwork to stimulate lymph flow</li>\n<li>Reducing toxin exposures from cosmetics, cleaning products, plastics, and water<strong> </strong></li>\n</ul>\n<p><strong>When Is a Detox Helpful?</strong></p>\n<p>Detoxification support may be helpful when you experience:</p>\n<ul>\n<li>Chronic fatigue or brain fog</li>\n<li>Skin issues like acne, eczema, or psoriasis</li>\n<li>Hormonal imbalances</li>\n<li>Digestive symptoms like bloating or constipation</li>\n<li>Difficulty concentrating or mood swings</li>\n</ul>\n<p>That said, not everyone needs a detox, and certainly not the same one. This is where working with a licensed naturopathic doctor becomes essential.</p>\n<h2><strong>Common Detox Myths—Debunked</strong></h2>\n<ol>\n<li><em>“Detoxing means starving yourself.”</em><strong><br/></strong> A real detox is about nourishment, not deprivation.</li>\n<li><strong></strong><em> “The body detoxes on its own—no support needed.”</em><strong><br/></strong> True, but targeted support can optimize or ease the burden, especially in a toxic modern world.</li>\n<li><strong></strong><em> “Detoxes are dangerous or unscientific.”</em><strong><br/></strong> While poorly designed detoxes can be harmful, <em>naturopathic detox is evidence-informed and safe—when guided by a trained professional</em></li>\n</ol>\n<p><strong>When NOT to Detox</strong></p>\n<p>Certain people should avoid detox protocols unless under professional supervision:</p>\n<ol>\n<li>Pregnant or breastfeeding individuals</li>\n<li>Those with severe chronic conditions</li>\n<li>Anyone considering long-term fasting or high-dose supplement programs</li>\n</ol>\n<p>Safety always comes first.</p>\n<p><strong> How to Start a Gentle Detox (Safely)</strong></p>\n<p>You don’t need a complete overhaul to begin supporting your body’s natural detox.</p>\n<p>Start here:</p>\n<ul>\n<li>Load your plate with whole foods, not processed junk.</li>\n<li>Hydrate generously—add lemon or electrolytes if you like</li>\n<li>Cut back on alcohol, caffeine, sugar, and processed food</li>\n<li>Move daily—sweat gently through sauna or exercise</li>\n<li>Sleep well. Breathe deep. Reduce stress.</li>\n</ul>\n<p>Most importantly:<strong> Consult with a naturopathic doctor to get personalized, effective guidance.</strong></p>\n<h2><strong>A Balanced View</strong></h2>\n<p>In naturopathic medicine, detox isn’t a trend—it’s a time-honored concept applied with care, clinical insight, and individualization. When done right, it can be a <em>powerful reset</em> for your health. You will gain more energy and vitality, reduce brain fog, sleep will improve and digestion smooths out.</p>\n<p><strong>Want to explore whether a detox protocol is right for you?</strong><strong><br/></strong><strong><a href=\"/work-with-me/\"><em> Book a free 15-minute consultation</em></a></strong> with Dr. Nadene to get started safely.</p>",
+          "align": "left",
+          "dark": false,
+          "hide": []
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
