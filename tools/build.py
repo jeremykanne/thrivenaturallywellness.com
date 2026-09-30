@@ -369,7 +369,7 @@ def shell(page, body, ctx, active):
       <p>Designed by <a href="https://www.smartyeti.co" target="_blank" rel="noopener">Smart Yeti</a></p>
     </div>
   </footer>
-  <button class="book-badge" type="button" data-calendly-popup="{html.escape(CALENDLY_BADGE_URL)}">{svg("calendar")}<span>Schedule time with me</span></button>
+  <button class="book-badge" type="button" aria-label="Schedule time with me" data-calendly-popup="{html.escape(CALENDLY_BADGE_URL)}">{svg("calendar")}<span>Schedule time with me</span></button>
   <script>window.TNW={{gtag:"{GTAG_ID}",fb:"{FB_PIXEL}",hj:{HOTJAR_ID}}};{JS}</script>
 </body>
 </html>
